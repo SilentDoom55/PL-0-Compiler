@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Silent/Desktop/!Stuff/School/COP3402/workspace/HW4/compiler.h
+
+/cygdrive/c/Users/Silent/Desktop/!Stuff/School/COP3402/workspace/HW4/parser2.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+compiler.h
+/cygdrive/c/Users/Silent/Desktop/!Stuff/School/COP3402/workspace/HW4/compiler.h
+
